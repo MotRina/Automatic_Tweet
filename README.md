@@ -1,2 +1,2 @@
 # Automatic_Tweet
-for automatic tweet generation and automatic posting
+GPTのAPIとXのAPIを用いたツイートの自動生成・自動投稿
